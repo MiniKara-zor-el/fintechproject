@@ -1,1 +1,2 @@
 # fintechproject
+#starting passion project
